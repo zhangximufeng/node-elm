@@ -23,9 +23,9 @@ __注：此项目纯属个人瞎搞，不用于任何商业用途。__
 >  特别感谢辰妹子[@bailichen](https://github.com/bailichen)，在百忙之中抽出时间和[@cangdu](https://github.com/bailicangdu)一起完成了这个项目，辛苦了🌹
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
->  相关项目地址：[前端项目地址](https://github.com/zhangximufeng/vueDemo)  、 [后台管理系统地址](https://github.com/zhangximufeng/back-manage)
+>  相关项目地址：[前端项目地址](https://github.com/zhangximufeng/vueDemo)  、 [后台管理系统地址](https://github.com/zhangximufeng/vue2-manage)
 
->  接下来的开源项目[react-native 构建的原生APP](https://github.com/bailicangdu/RN-elm)也是以此后台系统作为基础，因为APP拥有更多功能以及细粒度的操作，因此后台系统会不断扩展更多接口和功能。
+
 
 ## 技术栈
 
